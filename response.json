@@ -1,0 +1,726 @@
+{
+  "status": "success",
+  "data": {
+    "headlines": [
+      {
+        "title": "Trade deficit narrows 2.6% in July-April",
+        "link": "https://www.thedailystar.net/business/news/trade-deficit-narrows-26-july-april-3910596",
+        "intro": "The country’s trade deficit narrowed by 2.60 percent in the first ten months of the current fiscal year compared to the same period a year ago, thanks to a rise in export earnings coupled with subdued imports..During the July-April period of fiscal year (FY) 2024-25, the trade gap was $18.",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2024/07/24/chittagong_port_rajib_raihan_4.jpg",
+        "type": "featured"
+      },
+      {
+        "title": "'We'll look into the matter'",
+        "link": "https://www.thedailystar.net/news/bangladesh/news/well-look-the-matter-3910546",
+        "intro": "Finance Adviser Salehuddin says regarding the black money whitening provision",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/04/30/salehuddin.jpg",
+        "type": "regular"
+      },
+      {
+        "title": "Dhaka to send fresh note to New Delhi over push-in issue: Touhid",
+        "link": "https://www.thedailystar.net/news/bangladesh/news/dhaka-send-fresh-note-new-delhi-over-push-issue-touhid-3910486",
+        "intro": "Touhid said Bangladesh is maintaining regular communication with India on the issue",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/02/18/touhid.jpg",
+        "type": "regular"
+      },
+      {
+        "title": "'Amazing' Alcaraz cruises into French Open last four",
+        "link": "https://www.thedailystar.net/sports/more-sports/tennis/news/amazing-alcaraz-cruises-french-open-last-four-3910941",
+        "intro": "Reigning champion Carlos Alcaraz glided into the semi-finals of Roland Garros on Tuesday, blowing away American 12th seed Tommy Paul for the loss of just five games in the night session on Court Philippe Chatrier.",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/06/04/2025-06-03t201413z_192017874_up1el631k7n9i_rtrmadp_3_tennis-frenchopen.jpg",
+        "type": "regular"
+      },
+      {
+        "title": "Living in orthodoxy: Rishad needs to rethink his MO",
+        "link": "https://www.thedailystar.net/sports/cricket/news/living-orthodoxy-rishad-needs-rethink-his-mo-3910906",
+        "intro": "Bangladesh leg-spinner Rishad Hossain needs to go back to the training ground and rethink how he wants to win games for the Tigers. Because what he has been dishing out in Bangladesh’s consecutive T20I tours of the UAE and Pakistan has been nothing short of ordinary.",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Opinion / Can the consensus commission break the deadlock?",
+        "link": "https://www.thedailystar.net/opinion/views/news/can-the-consensus-commission-break-the-deadlock-3910096",
+        "intro": "A collective dialogue should streamline the process and accelerate resolutions",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Interim govt’s timeframe not suitable compared to expectations for reform: Asif Nazrul",
+        "link": "https://www.thedailystar.net/news/bangladesh/news/interim-govts-timeframe-not-suitable-compared-expectations-reform-asif-nazrul-3910616",
+        "intro": "Govt will not attempt to amend the constitution by bypassing the consensus of political parties, he says",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Bogura Science and Technology University gets its first VC",
+        "link": "https://www.thedailystar.net/news/bangladesh/education/news/bogura-science-and-technology-university-gets-its-first-vc-3910886",
+        "intro": "Professor Kudrat-E-Zahan, of the chemistry department of Rajshahi University, has been appointed as the first vice-chancellor of the newly-established Bogura Science and Technology University..He will serve a four-year term..The appointment was officially announced today in a circula",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Bangladesh hold Jordan to a 2-2 draw",
+        "link": "https://www.thedailystar.net/sports/football/news/bangladesh-hold-jordan-2-2-draw-3910711",
+        "intro": "Bangladesh women's football team continued their impressive showing in the tri-nation FIFA friendly series with a 2-2 draw against hosts Jordan at King Abdullah II Stadium on Tuesday.",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Bangladesh Football Ultras continue protest at BFF over ticket allocation",
+        "link": "https://www.thedailystar.net/sports/football/news/bangladesh-football-ultras-continue-protest-bff-over-ticket-allocation-3910626",
+        "intro": "The Bangladesh Football Ultras, a passionate supporters group of the national football team, continued their sit-in protest for the second consecutive day in front of the Bangladesh Football Federation (BFF) headquarters, demanding tickets for the upcoming Asian Cup Qualifier against Singapore on June 10.",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "ICT fixes June 19 to hear contempt of court petition filed against Hasina",
+        "link": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-fixes-june-19-hear-contempt-court-petition-filed-against-hasina-3910606",
+        "intro": "The case stems from a leaked phone conversation that circulated on social media last year",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "UN reaffirms support for Bangladesh’s reform and transition process",
+        "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/un-reaffirms-support-bangladeshs-reform-and-transition-process-3910901",
+        "intro": "UN Resident Coordinator Gwyn Lewis has reaffirmed the United Nations’ unwavering solidarity with Bangladesh’s reform and transition process, emphasising the UN’s commitment to supporting the country’s path towards sustainable development and prosperity..“The Resident Coordinator commended",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Premier League transfer race heats up ahead of new season",
+        "link": "https://www.thedailystar.net/sports/football/news/premier-league-transfer-race-heats-ahead-new-season-3910601",
+        "intro": "With the 2025-26 season still weeks away, Premier League clubs are already scrambling to strengthen their squads-- fuelled by the looming Club World Cup. Here are five names dominating the early headlines.",
+        "image": null,
+        "type": "regular"
+      },
+      {
+        "title": "Reducing penalty on false declarations will encourage smuggling: experts",
+        "link": "https://www.thedailystar.net/business/news/reducing-penalty-false-declarations-will-encourage-smuggling-experts-3910591",
+        "intro": "In the Finance Ordinance 2025–26, presented on Monday, the government proposed amending the Customs Act 2023 and revising the penalty structure for tax evasion related to intentional false declarations during import clearance, reducing the minimum fine from twice the evaded amount to an equivale",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2023/02/06/chattogram-port.jpg",
+        "type": "horizontal"
+      },
+      {
+        "title": "Chambers warn budget may hurt business, investment",
+        "link": "https://www.thedailystar.net/business/news/chambers-warn-budget-may-hurt-business-investment-3910541",
+        "intro": "Just a day after the interim government proposed the national budget and tax measures for fiscal year 2025-26, leading business chambers expressed significant concern that several measures could potentially impede business growth and affect investment.",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/a_2_0.jpg",
+        "type": "horizontal"
+      },
+      {
+        "title": "Kohli fulfils IPL dream as Royal Challengers Bengaluru beat Punjab Kings for first title",
+        "link": "https://www.thedailystar.net/sports/cricket/news/kohli-fulfils-ipl-dream-royal-challengers-bengaluru-beat-punjab-kings-first-title-3910756",
+        "intro": "Batting legend Virat Kohli top-scored for Royal Challengers Bengaluru as they beat Punjab Kings by six runs on Tuesday to win their first Indian Premier League T20 title.",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/photo-collage.png_43.png",
+        "type": "horizontal"
+      }
+    ],
+    "categories": {
+      "Opinion": [
+        {
+          "title": "Health and education sectors need greater budgetary attention",
+          "link": "https://www.thedailystar.net/opinion/editorial/news/health-and-education-sectors-need-greater-budgetary-attention-3910951",
+          "intro": "Proposed budget for FY2025-26 does not reflect government’s stated priorities",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/low_allocations_for_education_health.png",
+          "type": "regular"
+        },
+        {
+          "title": "La Vie en Paris Saint Germain",
+          "link": "https://www.thedailystar.net/opinion/views/beyond-the-dugout/news/la-vie-en-paris-saint-germain-3910216",
+          "intro": "Enrique’s commitment to collective play is a refreshing change after years overshadowed by the limitations of individual egos.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Why shy away from prioritising culture?",
+          "link": "https://www.thedailystar.net/opinion/views/news/why-shy-away-prioritising-culture-3910181",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/oe_monorom_polok.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "A transitional budget for troubled times",
+          "link": "https://www.thedailystar.net/opinion/editorial/news/transitional-budget-troubled-times-3910011",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/tk_789999_crore_national_budget_unveiled_for_fy2025-26.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "Opinion / A conservative budget for FY2026",
+          "link": "https://www.thedailystar.net/opinion/views/macro-mirror/news/a-conservative-budget-3909971",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/img_7971.jpeg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Tackling joblessness requires thinking out of the box",
+          "link": "https://www.thedailystar.net/opinion/views/news/tackling-joblessness-requires-thinking-out-the-box-3909761",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/op_2_monorom_polok.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Can we ensure road safety this Eid?",
+          "link": "https://www.thedailystar.net/opinion/views/news/can-we-ensure-road-safety-eid-3909736",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/ed_2_cover_image_file_photo_star.jpg",
+          "type": "horizontal"
+        }
+      ],
+      "Business": [
+        {
+          "title": "VAT hike deals fresh blow to local handset industry",
+          "link": "https://www.thedailystar.net/business/news/vat-hike-deals-fresh-blow-local-handset-industry-3910861",
+          "intro": "Bangladesh’s mobile phone manufacturing industry, once hailed as a potential pillar of the country’s digital ambitions, is bracing for a fresh blow after the interim government proposed a hike in value-added tax (VAT) at the production stage in the national budget for fiscal year 2025-26.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/06/04/local-handset-industry.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Businesses decry turnover tax hike",
+          "link": "https://www.thedailystar.net/business/news/businesses-decry-turnover-tax-hike-3910856",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/tax-hike.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Inflation to drop below 7% within September",
+          "link": "https://www.thedailystar.net/business/news/inflation-drop-below-7-within-september-3910841",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/03/05/ahsan-h-mansur_0.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Hotels at tourist spots almost fully booked",
+          "link": "https://www.thedailystar.net/business/news/hotels-tourist-spots-almost-fully-booked-3910831",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/hotels-1.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "A budget for the future?",
+          "link": "https://www.thedailystar.net/business/news/budget-the-future-3910826",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/sustainable-growth-1.jpg",
+          "type": "horizontal"
+        }
+      ],
+      "Sports": [
+        {
+          "title": "England crush West Indies to complete 3-0 ODI series win",
+          "link": "https://www.thedailystar.net/sports/cricket/news/england-crush-west-indies-complete-3-0-odi-series-win-3910916",
+          "intro": "England thrashed the West Indies by seven wickets on the Duckworth-Lewis-Stern Method in the third one-day international at the Oval on Tuesday as they completed a 3-0 series clean sweep.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/04/2025-06-03t200719z_1370759739_up1el631jw59c_rtrmadp_3_cricket-odi-eng-win.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Little possibility of new faces as focus turns to Tests",
+          "link": "https://www.thedailystar.net/sports/cricket/news/little-possibility-new-faces-focus-turns-tests-3910491",
+          "intro": "Bangladesh Cricket Board (BCB) president Aminul Islam met with head coach Phil Simmons and cricket operations chairman Nazmul Abedeen Fahim at the BCB premises yesterday and a discussion with the selection panel took place as well.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "French Open / Reigning champion Swiatek beats Svitolina to reach semis",
+          "link": "https://www.thedailystar.net/sports/more-sports/tennis/news/reigning-champion-swiatek-beats-svitolina-reach-semis-3910466",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/iga_swiatek.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "HC questions legality of Faruque’s removal from office of BCB president",
+          "link": "https://www.thedailystar.net/news/bangladesh/news/hc-questions-legality-faruques-removal-office-bcb-president-3910376",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/faruque-aminul.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Fernandes rejects Saudi move to stay at Man Utd: reports",
+          "link": "https://www.thedailystar.net/sports/football/news/fernandes-rejects-saudi-move-stay-man-utd-reports-3910361",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/bruno_fernandes1.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "French Open / Sabalenka weathers Zheng storm to reach semifinals",
+          "link": "https://www.thedailystar.net/sports/more-sports/tennis/news/sabalenka-weathers-zheng-storm-reach-semifinals-3910316",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/aryna_sabalenka.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Asia Cup in limbo after India-Pakistan clashes",
+          "link": "https://www.thedailystar.net/sports/cricket/news/asia-cup-limbo-after-india-pakistan-clashes-3910226",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/19/asia_cup2025_0.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Pitch Perfect  / Bangladesh cricket in a mess: On and off the field",
+          "link": "https://www.thedailystar.net/star-multimedia/sports-multimedia/news/bangladesh-cricket-mess-and-the-field-3889461",
+          "intro": "This episode of The Daily Star’s podcast Pitch Perfect takes a deep dive into the unfolding crisis and tries to shed light on the root causes of the dysfunction and explore what it would take to bring Bangladesh cricket back from the brink.",
+          "image": null,
+          "type": "regular"
+        }
+      ],
+      "News": [
+        {
+          "title": "Ukraine peace efforts are complex: Kremlin",
+          "link": "https://www.thedailystar.net/news/world/news/ukraine-peace-efforts-are-complex-kremlin-3910766",
+          "intro": "The Kremlin warned yesterday that work on trying to reach a settlement to end the war in Ukraine was extraordinarily complex and that it would be wrong to expect any imminent decisions.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/06/04/kremlin.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "New rare wild orchid seen in UK for first time in 100 years",
+          "link": "https://www.thedailystar.net/news/world/news/new-rare-wild-orchid-seen-uk-first-time-100-years-3910751",
+          "intro": "A new lady’s-slipper orchid, once believed to be extinct in the UK, has been spotted in the wild for the first time in 100 years following a decades-long conservation drive, experts said yesterday.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/images/2025/06/04/ladys-slipper-orchid.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "flash flooding  / Death toll in Nigeria jumps past 200",
+          "link": "https://www.thedailystar.net/news/world/news/death-toll-nigeria-jumps-past-200-3910746",
+          "intro": "Flash flooding in north-central Nigeria last week killed more than 200 people, the Niger state humanitarian commissioner said yesterday, while hundreds more remain missing and are feared dead.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Trump, Xi will likely speak this week",
+          "link": "https://www.thedailystar.net/news/world/news/trump-xi-will-likely-speak-week-3910736",
+          "intro": "President Donald Trump and Chinese leader Xi Jinping will likely speak this week, White House press secretary Karoline Leavitt said on Monday, days after Trump accused China of violating an agreement to roll back tariffs and trade restrictions.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Harvard seeks end to US funding cuts",
+          "link": "https://www.thedailystar.net/news/world/news/harvard-seeks-end-us-funding-cuts-3910731",
+          "intro": "Harvard University asked a federal judge on Monday to issue a summary judgment ruling to unfreeze $2.5 billion in funding blocked by President Donald Trump’s administration, which Harvard said was illegal.",
+          "image": null,
+          "type": "regular"
+        }
+      ],
+      "Entertainment": [
+        {
+          "title": "UK rapper Surya Sen enlivens Dhaka with dual debut sets",
+          "link": "https://www.thedailystar.net/entertainment/music/news/uk-rapper-surya-sen-enlivens-dhaka-dual-debut-sets-3910381",
+          "intro": "During his first-ever trip to Dhaka last week, British-Bengali electronic producer, songwriter, and rapper Surya Sen took time out to invigorate stages with his breakout single “Buccho Ni Ba Bhai” at not one but two back-to-back debut shows in the country. This genre-hopping artiste, based in North London, brought some great UK garage, hip-hop, and house music to the table, both old and new.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/bhai_bhai_-_pc_famil_faiza_.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Khamkheyali Sabha honours Sanjida Khatun’s legacy with memorial tribute",
+          "link": "https://www.thedailystar.net/arts-entertainment/music/news/khamkheyali-sabha-honours-sanjida-khatuns-legacy-memorial-tribute-3910411",
+          "intro": "In an artistic gathering, Khamkheyali Sabha, a literary and cultural forum inspired by the ideals of Rabindranath Tagore, paid tribute to the late cultural icon Sanjida Khatun through a memorial event titled ‘Sanjida Khatun Smarananjali’. The programme took place at 6:30pm, yesterday, at the World Literature Centre in Bangla Motor, Dhaka.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Taylor Swift’s old albums stream double on Spotify after catalogue deal",
+          "link": "https://www.thedailystar.net/entertainment/music/news/taylor-swifts-old-albums-stream-double-spotify-after-catalogue-deal-3910231",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/skynews-taylor-swift-eras-tour_6801775.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Theatre Artists Association voices concern over FY26 cultural budget",
+          "link": "https://www.thedailystar.net/entertainment/theatre-arts/news/theatre-artists-association-voices-concern-over-fy26-cultural-budget-3910321",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/misha_-_2025-06-03t173050.492.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "‘Lichur Bagane’ from ‘Taandob’ stirs online frenzy upon release",
+          "link": "https://www.thedailystar.net/entertainment/music/news/lichur-bagane-taandob-stirs-online-frenzy-upon-release-3910071",
+          "intro": "",
+          "image": null,
+          "type": "horizontal"
+        },
+        {
+          "title": "Top bands unite for BTV’s Eid-ul-Azha special programme",
+          "link": "https://www.thedailystar.net/entertainment/music/news/top-bands-unite-btvs-eid-ul-azha-special-programme-3910101",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/screenshot_2025-06-03_at_11.37.56_am.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "‘Jaya Aar Sharmin’: A pandemic portrait of isolation and unspoken grief",
+          "link": "https://www.thedailystar.net/entertainment/tv-film/news/jaya-aar-sharmin-pandemic-portrait-isolation-and-unspoken-grief-3909661",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/jaya_aar_sharmin.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "Aysha Monica’s journey through showbiz",
+          "link": "https://www.thedailystar.net/entertainment/tv-film/news/aysha-monicas-journey-through-showbiz-3909566",
+          "intro": "With her calm, committed approach and an enduring passion for performance, Aysha Rahman Monica continues to leave her mark on Bangladesh’s creative scene—quietly, but distinctly.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/aysha_monica.png",
+          "type": "regular"
+        }
+      ],
+      "Life & Living": [
+        {
+          "title": "Goutom Saha's secrets to timeless Bangladeshi style",
+          "link": "https://www.thedailystar.net/life-living/fashion-beauty/news/goutom-sahas-secrets-timeless-bangladeshi-style-3909641",
+          "intro": "Style goes beyond fashion trends—it's a personal, evolving expression of identity. Bangladeshi stylist Goutom Saha emphasizes intentional dressing, fit over flash, and sustainable choices, encouraging confidence, practicality, and grooming as the core of true personal style.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/25f708d55c4edde8b3ddcbba84fc870d.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Sweet meets savoury: Fruity meat recipes for Eid",
+          "link": "https://www.thedailystar.net/life-living/food-recipes/news/sweet-meets-savoury-fruity-meat-recipes-eid-3909626",
+          "intro": "Discover bold Eid-ul-Azha flavours with fruit-infused meat recipes like pineapple beef curry, lamb with apples, mutton in tamarind coconut, soy-orange beef, mango chicken stir-fry, and lamb pomegranate skewers—perfect sweet-savoury pairings that elevate traditional festive cooking.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Marriage or manipulation? Recognising abuse in Bangladeshi homes",
+          "link": "https://www.thedailystar.net/life-living/relationships-family/news/marriage-or-manipulation-recognising-abuse-bangladeshi-homes-3908621",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/01/file_00000000ea7861f79bbb1aafd2e4e8bd.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "How to reverse fatty liver naturally: Expert-recommended diet tips",
+          "link": "https://www.thedailystar.net/life-living/health-fitness/news/how-reverse-fatty-liver-naturally-expert-recommended-diet-tips-3908611",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/01/file_000000004ff061fd9d9ad22267d67dc5.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "Life on a Plate: Shaheda Yesmin’s fusion food philosophy",
+          "link": "https://www.thedailystar.net/life-living/food-recipes/news/life-plate-shaheda-yesmins-fusion-food-philosophy-3909621",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/untitled_design_1.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "#Perspective / Why ‘dumb’ phones are making a smart comeback in 2025",
+          "link": "https://www.thedailystar.net/life-living/news/why-dumb-phones-are-making-smart-comeback-2025-3906536",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/29/sumeet-singh-tpfpxkvqiis-unsplash.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "#Perspective / Mirpur Katan saree gets GI recognition — But for whose gain?",
+          "link": "https://www.thedailystar.net/life-living/news/mirpur-katan-saree-gets-gi-recognition-whose-gain-3906526",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/29/_b3a0572.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "#Perspective / Cable car in Cox’s Bazar: Revolutionary or a risky ride?",
+          "link": "https://www.thedailystar.net/life-living/news/cable-car-coxs-bazar-revolutionary-or-risky-ride-3905656",
+          "intro": "Bangladesh’s proposed Cox’s Bazar cable car project sparks mixed reactions, balancing hopes for tourism growth with concerns over safety, maintenance, and cultural preservation, highlighting the urgent need for responsible planning and credible implementation in coastal development.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/28/untitled_design_1.png",
+          "type": "regular"
+        }
+      ],
+      "Youth": [
+        {
+          "title": "UIU 6th, BRACU 8th at University Rover Challenge 2025",
+          "link": "https://www.thedailystar.net/campus/campus/news/uiu-6th-bracu-8th-university-rover-challenge-2025-3908526",
+          "intro": "UIU Mars Rover from United International University (UIU) and BRACU Mongol-Tori from BRAC University (BRACU) secured the 6th and 8th positions respectively at the University Rover Challenge (URC) 2025 finals.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/01/urc_2025.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "What it takes to get into top US universities",
+          "link": "https://www.thedailystar.net/rising-stars/news/what-it-takes-get-top-us-universities-3905516",
+          "intro": "What does it really take to get in? We sat down with students who made it this year, sharing their journeys and well-earned wisdom.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Skip classes, lose your visa: US warns international students",
+          "link": "https://www.thedailystar.net/campus/education/news/skip-classes-lose-your-visa-us-warns-international-students-3905276",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/28/skip_classes_lose_your_visas_us_warns_international_students.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Anime / The Apothecary Diaries is the anime to put cookie-cutter female protagonists to sleep",
+          "link": "https://www.thedailystar.net/rising-stars/pop-culture/news/the-apothecary-diaries-the-anime-put-cookie-cutter-female-protagonists-sleep-3907086",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/media/api_images/2025/05/30/2%20Bottom%20Review.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Beyond the Summit: Nishat’s climb was never just about Everest",
+          "link": "https://www.thedailystar.net/youth/young-icons/global-achievements/news/beyond-the-summit-nishats-climb-was-never-just-about-everest-3906706",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/29/facebook_thumbnail_12_2.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Appointments for US student visa halted",
+          "link": "https://www.thedailystar.net/campus/education/news/appointments-us-student-visa-halted-3905076",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/05/28/us_halts_student_visa_appointments.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Tariffs and trade wars: Explained",
+          "link": "https://www.thedailystar.net/rising-stars/explained/news/tariffs-and-trade-wars-explained-3907091",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/media/api_images/2025/05/30/8%20Full%20Page.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Should you consider spaying or neutering your pet?",
+          "link": "https://www.thedailystar.net/rising-stars/interests/news/should-you-consider-spaying-or-neutering-your-pet-3907096",
+          "intro": "Is spaying or neutering your pet really necessary for their health?",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/media/api_images/2025/05/30/6%20Full%20Page.jpg",
+          "type": "regular"
+        }
+      ],
+      "Tech & Startup": [
+        {
+          "title": "CD Projekt Red unveils early look at The Witcher 4 powered by Unreal Engine 5",
+          "link": "https://www.thedailystar.net/tech-startup/news/cd-projekt-red-unveils-early-look-the-witcher-4-powered-unreal-engine-5-3910621",
+          "intro": "CD Projekt Red has partnered with Epic Games to present a first public demonstration of The Witcher 4 running on Unreal Engine 5, offering a glimpse of the next instalment in the acclaimed fantasy RPG franchise. The showcase opened this year’s State of Unreal keynote at Unreal Fest in Orlando, marking a key milestone in the ongoing collaboration between the two developers.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/f15947b7e98b2ace7754f525d66a3b3d_0.jpeg",
+          "type": "regular"
+        },
+        {
+          "title": "Why is Microsoft investing $400 million in Switzerland?",
+          "link": "https://www.thedailystar.net/tech-startup/news/why-microsoft-investing-400-million-switzerland-3910271",
+          "intro": "Microsoft is investing $400 million in Switzerland to expand its cloud computing and artificial intelligence (AI) infrastructure, the company recently announced. The company said the investment will go towards upgrading its four data centres located near Geneva and Zurich, aiming to meet the growing demand for AI and cloud services in the country.",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Review / Realme GT 7 Dream Edition: a high-speed tribute to Aston Martin and F1 fans",
+          "link": "https://www.thedailystar.net/tech-startup/news/realme-gt-7-dream-edition-high-speed-tribute-aston-martin-and-f1-fans-3910241",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/whatsapp_image_2025-06-03_at_12.29.10_am_3.jpeg",
+          "type": "horizontal"
+        },
+        {
+          "title": "X rolls out new encrypted messaging feature, XChat",
+          "link": "https://www.thedailystar.net/tech-startup/news/x-rolls-out-new-encrypted-messaging-feature-xchat-3910146",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/x_formerly_twitter.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "India launches AI-based multimodal LLM for Indian languages",
+          "link": "https://www.thedailystar.net/tech-startup/news/india-launches-ai-based-multimodal-llm-indian-languages-3910136",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/ai.png",
+          "type": "horizontal"
+        },
+        {
+          "title": "What this year’s budget means for the ICT sector",
+          "link": "https://www.thedailystar.net/tech-startup/news/what-years-budget-means-the-ict-sector-3909796",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/tech_startup_-_new-16.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Additional 5% VAT exempted on local e-bikes until 2030",
+          "link": "https://www.thedailystar.net/tech-startup/news/additional-5-vat-exempted-local-e-bikes-until-2030-3909506",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/electric_bikes.jpg",
+          "type": "horizontal"
+        },
+        {
+          "title": "Mobile phone production gets extended tax exemption",
+          "link": "https://www.thedailystar.net/tech-startup/news/mobile-phone-production-gets-extended-tax-exemption-3909501",
+          "intro": "The existing VAT exemption for the production and assembly of mobile phones has been slightly reduced and extended until June 30, 2027.",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/02/smartphone_on_hand.jpg",
+          "type": "regular"
+        }
+      ],
+      "Star Multimedia": [
+        {
+          "title": "Sheikh Hasina's trial begins, what lies next?",
+          "link": "https://www.thedailystar.net/star-multimedia/news-multimedia/news/sheikh-hasinas-trial-begins-what-lies-next-3908891",
+          "intro": "Watch today's Star Explains to know more about the five specific allegations mentioned in the charge sheet",
+          "image": null,
+          "type": "horizontal"
+        },
+        {
+          "title": "Why did the question of chief adviser's resignation arise?",
+          "link": "https://www.thedailystar.net/star-multimedia/news-multimedia/news/why-did-the-question-chief-advisers-resignation-arise-3901526",
+          "intro": "Disappointment and anger have been expressed surrounding the recent events. All in all, the question arises, which way is the politics of Bangladesh headed this time? What does the rapidly changing landscape indicate?",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "How video game shots are being used as videos of India-Pakistan conflict",
+          "link": "https://www.thedailystar.net/news/world/india-pakistan-conflict/news/how-video-game-shots-are-being-used-videos-india-pakistan-conflict-3889971",
+          "intro": "Today's Star Explains is on how the web of misinformation is being spread around the conflict, and who is fuelling it",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "How is Bangladesh being affected despite the US tariff suspension?",
+          "link": "https://www.thedailystar.net/star-multimedia/business-multimedia/news/how-bangladesh-being-affected-despite-the-us-tariff-suspension-3886781",
+          "intro": "Watch today's episode of Star Explains to find out more",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "24 parties in 8 months: History repeating itself or is democracy growing?",
+          "link": "https://www.thedailystar.net/star-multimedia/news-multimedia/news/24-parties-8-months-history-repeating-itself-or-democracy-growing-3885281",
+          "intro": "Let's find out the answers in today's episode of Star Explains",
+          "image": null,
+          "type": "regular"
+        }
+      ],
+      "Books & Literature": [
+        {
+          "title": "BOOK REVIEW: FICTION / Of women, rage, and what burns unseen",
+          "link": "https://www.thedailystar.net/books-literature/news/women-rage-and-what-burns-unseen-3906011",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/29/hakhdaar.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "NEWS REPORT / Ngũgĩ wa Thiong’o, renowned Kenyan author and literary icon, dies at 87",
+          "link": "https://www.thedailystar.net/books-literature/news/ngugi-wa-thiongo-renowned-kenyan-author-and-literary-icon-dies-87-3906866",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/29/illustrations_7.png",
+          "type": "regular"
+        },
+        {
+          "title": "POETRY / What do you want to be when you grow up?",
+          "link": "https://www.thedailystar.net/books-literature/news/what-do-you-want-be-when-you-grow-3907486",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/31/illustrations_7_20.png",
+          "type": "regular"
+        },
+        {
+          "title": "BOOK REVIEW: FICTION / A kaleidoscopic collection of stories by an outsider",
+          "link": "https://www.thedailystar.net/books-literature/news/kaleidoscopic-collection-stories-outsider-3906006",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/29/modhu.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Poetry / Three Songs: Kazi Nazrul Islam",
+          "link": "https://www.thedailystar.net/books-literature/news/three-songs-kazi-nazrul-islam-3901661",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/24/nazrul12.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "FICTION / Vivisection of a cat",
+          "link": "https://www.thedailystar.net/books-literature/news/vivisection-cat-3901676",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/24/cat.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "INTERVIEW / ‘Human translation will continue, despite machines’:  An interview with V. Ramaswamy",
+          "link": "https://www.thedailystar.net/books-literature/news/human-translation-will-continue-despite-machines-interview-v-ramaswamy-3900346",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/22/human-translation.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Indian author wins International Booker for story collection",
+          "link": "https://www.thedailystar.net/books-literature/news/indian-author-wins-international-booker-story-collection-3899671",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/images/2025/05/21/banu.jpg",
+          "type": "regular"
+        }
+      ],
+      "Environment": [
+        {
+          "title": "Budget FY26 / Power division allocation cut by 30%, energy gets 100% boost",
+          "link": "https://www.thedailystar.net/environment/natural-resources/energy/news/power-division-allocation-cut-30-energy-gets-100-boost-3910441",
+          "intro": "LNG import will stand 6.5 million tonnes from 5 million, cut import VAT",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/power_division_.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Plastic crisis needs legal reforms and unity: Experts",
+          "link": "https://www.thedailystar.net/environment/news/plastic-crisis-needs-legal-reforms-and-unity-experts-3910396",
+          "intro": "Activists push for accountability and regulation at Dhaka dialogue",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/501000753_1159173706250333_1794220821307418470_n.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Water levels of four Moulvibazar rivers rise; 5,686 people marooned",
+          "link": "https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/water-levels-four-moulvibazar-rivers-rise-5686-people-marooned-3910326",
+          "intro": "A total of 5,686 people have been marooned in the areas due to the flooding",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/river-1.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Weather during Eid: Rain to weaken, heat to intensify",
+          "link": "https://www.thedailystar.net/environment/weather/news/weather-during-eid-rain-weaken-heat-intensify-3910176",
+          "intro": "While the mass exodus is expected to gain full momentum from Thursday, the ongoing rainfall has added a layer of concern for holidaymakers",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/06/03/rain_1.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "5.8-magnitude quake hits Turkey's Marmaris, 1 dead: interior minister",
+          "link": "https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/58-magnitude-quake-hits-turkeys-marmaris-1-dead-interior-minister-3910076",
+          "intro": "A 5.8 magnitude earthquake struck the Marmaris area of southwestern Turkey early on Tuesday, with a teenager dying after having a panic attack, the interior minister said",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Heavy rain paralyses life in Chattogram; shelter centres open",
+          "link": "https://www.thedailystar.net/news/bangladesh/news/heavy-rain-paralyses-life-chattogram-shelter-centres-open-3909266",
+          "intro": "The office-goers, students and others who came out for essential tasks faced difficulties due to the persistent rainfall",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "Oceans feel the heat from human climate pollution",
+          "link": "https://www.thedailystar.net/environment/news/oceans-feel-the-heat-human-climate-pollution-3909151",
+          "intro": "\"Oceans are warming faster and faster\"",
+          "image": null,
+          "type": "regular"
+        },
+        {
+          "title": "1.7km embankments in Cox’s Bazar damaged due to deep depression",
+          "link": "https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/17km-embankments-coxs-bazar-damaged-due-deep-depression-3908746",
+          "intro": "The damaged portions include 905 meters in Maheshkhali, 695 meters in Kutubdia, and 100 meters in Bharuakhali",
+          "image": null,
+          "type": "regular"
+        }
+      ],
+      "Photo Gallery": [
+        {
+          "title": "Today's Gallery (2025.06.03)",
+          "link": "https://www.thedailystar.net/multimedia/homepage/todays-gallery-20250603-3910016",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/gallery-images/2025/06/03/woman.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Today's Gallery (2025.06.01)",
+          "link": "https://www.thedailystar.net/multimedia/homepage/todays-gallery-20250601-3908326",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/gallery-images/2025/06/01/father-and-son.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Today's Gallery (2025.05.30)",
+          "link": "https://www.thedailystar.net/multimedia/homepage/todays-gallery-20250530-3907136",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/gallery-images/2025/05/30/patuakhali.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Today's Gallery (2025.05.28)",
+          "link": "https://www.thedailystar.net/multimedia/homepage/todays-gallery-20250528-3905156",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/gallery-images/2025/05/28/air-pllution.jpg",
+          "type": "regular"
+        },
+        {
+          "title": "Today's Gallery (2025.05.26)",
+          "link": "https://www.thedailystar.net/multimedia/homepage/todays-gallery-20250526-3903326",
+          "intro": "",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/medium_202/public/gallery-images/2025/05/26/cattle.jpg",
+          "type": "regular"
+        }
+      ]
+    }
+  }
+}

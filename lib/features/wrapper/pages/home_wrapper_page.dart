@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
 import 'package:thedailynews/core/theme/app_colors.dart';
-import 'package:thedailynews/features/wrapper/presentation/bloc/navigation_bloc.dart';
+import 'package:thedailynews/features/wrapper/Provider/navigation_provider.dart';
 
 class HomeWrapperPage extends StatelessWidget {
   const HomeWrapperPage({super.key, required this.child});
@@ -15,17 +15,16 @@ class HomeWrapperPage extends StatelessWidget {
 
     // Set the system UI overlay style for the home wrapper page
     SystemChrome.setSystemUIOverlayStyle(
-      SystemUiOverlayStyle(
+      const SystemUiOverlayStyle(
         statusBarIconBrightness: Brightness.dark,
         systemNavigationBarIconBrightness: Brightness.dark,
       ),
     );
-    return BlocBuilder<NavigationBloc, NavItem>(
-      builder: (context, tab) {
-        final currentIndex = _indexFromTab(tab);
+    return Consumer<NavigationProvider>(
+      builder: (context, navigationProvider, _) {
+        final currentIndex = _indexFromTab(navigationProvider.selectedItem);
         return Scaffold(
           backgroundColor: AppColors.scaffoldBackground,
-
           body: child,
           bottomNavigationBar: Container(
             decoration: BoxDecoration(
@@ -37,14 +36,14 @@ class HomeWrapperPage extends StatelessWidget {
               ),
             ),
             child: NavigationBar(
-              backgroundColor: AppColors.scaffoldBackground,
+              backgroundColor: AppColors.white,
               selectedIndex: currentIndex,
               surfaceTintColor: Colors.transparent,
               labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
               indicatorColor: AppColors.primary,
               onDestinationSelected: (index) {
                 final selectedTab = _tabFromIndex(index);
-                context.read<NavigationBloc>().selectTab(selectedTab);
+                navigationProvider.selectTab(selectedTab);
                 context.go(_routeFromTab(selectedTab));
               },
               destinations: [
@@ -75,15 +74,15 @@ class HomeWrapperPage extends StatelessWidget {
                   ),
                   label: 'Categories',
                 ),
-                NavigationDestination(
-                  icon: Icon(
-                    Icons.person,
-                    color: currentIndex == 3
-                        ? AppColors.white
-                        : AppColors.textColor,
-                  ),
-                  label: 'Profile',
-                ),
+                // NavigationDestination(
+                //   icon: Icon(
+                //     Icons.person,
+                //     color: currentIndex == 3
+                //         ? AppColors.white
+                //         : AppColors.textColor,
+                //   ),
+                //   label: 'Profile',
+                // ),
               ],
             ),
           ),
@@ -100,8 +99,8 @@ class HomeWrapperPage extends StatelessWidget {
         return 1;
       case NavItem.categories:
         return 2;
-      case NavItem.profile:
-        return 3;
+      // case NavItem.profile:
+      //   return 3;
     }
   }
 
@@ -117,8 +116,8 @@ class HomeWrapperPage extends StatelessWidget {
         return '/discover';
       case NavItem.categories:
         return '/categories';
-      case NavItem.profile:
-        return '/profile';
+      // case NavItem.profile:
+      //   return '/profile';
     }
   }
 }

@@ -1,9 +1,9 @@
 import 'package:go_router/go_router.dart';
-import 'package:thedailynews/features/categories/presentation/pages/categories_page.dart';
-import 'package:thedailynews/features/discover/presentation/pages/discover_page.dart';
-import 'package:thedailynews/features/home/presentation/pages/home_page.dart';
-import 'package:thedailynews/features/profile/presentation/pages/profile_page.dart';
-import 'package:thedailynews/features/splash/presentation/pages/splash_page.dart';
+import 'package:thedailynews/features/categories/pages/categories_page.dart';
+import 'package:thedailynews/features/discover/pages/discover_page.dart';
+import 'package:thedailynews/features/home/pages/home_page.dart';
+import 'package:thedailynews/features/profile/pages/profile_page.dart';
+import 'package:thedailynews/features/splash/pages/splash_page.dart';
 
 class AppPages {
   static final splashPage = GoRoute(

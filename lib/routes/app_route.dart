@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:thedailynews/features/wrapper/presentation/pages/home_wrapper_page.dart';
+import 'package:thedailynews/features/wrapper/pages/home_wrapper_page.dart';
 import 'package:thedailynews/main.dart';
 import 'package:thedailynews/routes/app_pages.dart';
 

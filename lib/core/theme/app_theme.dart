@@ -4,11 +4,12 @@ import 'package:thedailynews/core/theme/app_colors.dart';
 
 class AppTheme {
   static ThemeData theme() => ThemeData(
-    textTheme: GoogleFonts.interTextTheme(),
+    textTheme: GoogleFonts.soraTextTheme(),
     scaffoldBackgroundColor: AppColors.scaffoldBackground,
     primaryColor: AppColors.primary,
     primaryColorDark: AppColors.primary,
     primaryColorLight: AppColors.primary,
+    fontFamily: GoogleFonts.sora().fontFamily,
     colorScheme:
         ColorScheme.fromSwatch(
           primarySwatch: Colors.blue,
